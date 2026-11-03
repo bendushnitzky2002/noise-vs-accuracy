@@ -1,0 +1,13 @@
+Clean: mean = 96.57%, SD = 0.59, n = 20
+Noisy: mean = 95.46%, SD = 0.88, n = 20
+
+Shapiro-Wilk clean: W = 0.941, p = 0.246
+Shapiro-Wilk noisy: W = 0.926, p = 0.128
+Levene: W = 1.946, p = 0.171
+
+Welch's t-test: t = 4.69, df = 33.4, p = 0.000045
+Mean difference = 1.11 percentage points
+95% CI = [0.63, 1.59]
+Cohen's d = 1.48
+
+Mann-Whitney U: U = 345.5, p = 0.000080

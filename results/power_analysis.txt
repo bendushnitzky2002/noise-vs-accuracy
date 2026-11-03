@@ -1,0 +1,7 @@
+Pilot SD (clean): 0.853
+Pilot SD (noisy): 0.646
+Pooled SD: 0.757
+Smallest effect we care about: 1.0 percentage point
+Cohen's d: 1.32
+alpha = 0.05, power = 0.80, two-sided
+Required sample size: 11 runs per group
